@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "csharpextensions.reFormatAfterChange": false,
+    "editor.parameterHints.enabled": false
+}
